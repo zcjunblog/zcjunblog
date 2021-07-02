@@ -1,6 +1,5 @@
 ## Hey, zcjunblog here! :wave:   [![mail Badge](https://img.shields.io/badge/-i@zcjun.com-c14438?style=plastic&logo=Mail.Ru&logoColor=white&link=mailto:i@zcjun.com)](mailto:gonorth@qq.com)
 
-
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=zcjunblog&theme=dark&show_icons=true">
 
 I'm Zhao zicheng, now majoring in ⚡ Front End Developer ⚡, A programmer with a passion 🗯️.
@@ -16,9 +15,8 @@ I'm Zhao zicheng, now majoring in ⚡ Front End Developer ⚡, A programmer with
   Play the game
   Coding
   ......
-
----
   
+---
 #### :sparkles: My followers
 
 <!--START_SECTION:top-followers-->
