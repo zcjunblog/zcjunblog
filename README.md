@@ -11,13 +11,13 @@ I'm Zhao zicheng, now majoring in ⚡ Front End Developer ⚡, A programmer with
   ![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=plastic&logo=HTML5)
  
 - 😄 I like:
-  Running
-  Play the game
+  Running,
+  Play the game,
   Coding
 
 - 📖 I am learning:
-  ![Serverless](https://img.shields.io/badge/-Serverless-pink?style=plastic&logo=Serverless)
-  English
+  ![Serverless](https://img.shields.io/badge/-Serverless-pink?style=plastic&logo=Serverless),
+  English,
   Japanese
 
 &emsp;
