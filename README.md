@@ -1,12 +1,3 @@
-## [![mail Badge](https://img.shields.io/badge/Email-i@zcjun.com-brightgreen)](mailto:i@zcjun.com)
-
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=zcjunblog&theme=dark&show_icons=true">
-
-- 🚀 I use:
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-  ![NodeJs](https://img.shields.io/badge/-NodeJs-8fcfd1?style=plastic&logo=NodeJs)
-
-
 ## Hey, zcjunblog here! :wave:   [![mail Badge](https://img.shields.io/badge/-i@zcjun.com-c14438?style=plastic&logo=Mail.Ru&logoColor=white&link=mailto:i@zcjun.com)](mailto:gonorth@qq.com)
 
 
@@ -17,7 +8,7 @@ I'm Zhao zicheng, now majoring in ⚡ Front End Developer ⚡, A programmer with
 - 🚀 I use:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![Nodejs](https://img.shields.io/badge/-Node.js-8fcfd1?style=plastic&logo=Node.js)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=plastic&logo=TypeScript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=plastic&logo=TypeScript)
   ![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=plastic&logo=HTML5)
  
 - 😄 I like:
