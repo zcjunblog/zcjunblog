@@ -19,11 +19,9 @@ I'm Zhao zicheng, now majoring in ⚡ Front End Developer ⚡, A programmer with
   ![Serverless](https://img.shields.io/badge/-Serverless-pink?style=plastic&logo=Serverless)
   English
   Japanese
-    
+
 &emsp;
 ---
-  
-
 #### :sparkles: My followers
 
 <!--START_SECTION:top-followers-->
