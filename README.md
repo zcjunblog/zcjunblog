@@ -35,11 +35,12 @@ I'm Zhao zicheng, now majoring in ⚡ Front End Developer ⚡, A programmer with
       <a href="https://github.com/aitchouyz">aitchouyz</a>
     </td>
     <td align="center">
-      <a href="https://github.com/shui4">
+      <a href="https://github.com/
+               4">
         <img src="https://avatars2.githubusercontent.com/u/40482524" width="100px;" alt="shui4"/>
       </a>
       <br />
-      <a href="https://github.com/shui4">shui4</a>
+      <a href="https://github.com/shui4">标准萌新</a>
     </td>
     <td align="center">
       <a href="https://github.com/fluffyrita">
@@ -80,10 +81,10 @@ I'm Zhao zicheng, now majoring in ⚡ Front End Developer ⚡, A programmer with
   <tr>
     <td align="center">
       <a href="https://github.com/jay-mars">
-        <img src="https://avatars2.githubusercontent.com/u/58627914" width="100px;" alt="jay-mars"/>
+        <img src="https://avatars2.githubusercontent.com/u/62786120" width="100px;" alt="fan-tian0"/>
       </a>
       <br />
-      <a href="https://github.com/jay-mars">M4RS</a>
+      <a href="https://github.com/fan-tian0">fan-tian0</a>
     </td>
     <td align="center">
       <a href="https://github.com/CoderLFYue">
@@ -108,10 +109,10 @@ I'm Zhao zicheng, now majoring in ⚡ Front End Developer ⚡, A programmer with
     </td>
     <td align="center">
       <a href="https://github.com/LexsionLee">
-        <img src="https://avatars2.githubusercontent.com/u/10875417" width="100px;" alt="LexsionLee"/>
+        <img src="https://avatars2.githubusercontent.com/u/61049685" width="100px;" alt="xflyhigh"/>
       </a>
       <br />
-      <a href="https://github.com/LexsionLee">LexsionLee</a>
+      <a href="https://github.com/xflyhigh">xflyhigh</a>
     </td>
   </tr>
 </table>
