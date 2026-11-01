@@ -2,7 +2,7 @@
   <img src="assets/personal-hero-zeno.png" width="100%" alt="Zeno Zhao · 前端开发者与独立创作者。把奇思妙想，做成顺手的东西。">
 </p>
 
-你好，我是 **Zeno（赵子成 / Zicheng Zhao）**。关注前端开发、Web 应用与实用工具，喜欢把生活里的小想法，慢慢做成可以使用的作品。
+你好，我是 **Zeno（Zicheng Zhao）**。专注Web/桌面/App开发、 AI应用与实用工具，喜欢把生活里的小想法，慢慢做成可以使用的作品。
 
 [个人创作空间 ↗](https://jkhcz.com/) &nbsp; · &nbsp; [简约导航 ↗](https://nav.gs/) &nbsp; · &nbsp; [全部仓库 ↗](https://github.com/zcjunblog?tab=repositories)
 
