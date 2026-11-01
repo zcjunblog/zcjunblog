@@ -27,7 +27,11 @@
   <img src="assets/tech/wordpress.svg" width="32" height="32" alt="WordPress" title="WordPress">
 </p>
 
-`uni-app` · `Chrome Extensions` · 响应式界面开发
+<p>
+  <img src="assets/badges/uni-app.svg" height="24" alt="uni-app · 跨端应用开发"> &nbsp;
+  <img src="assets/badges/chrome-extensions.svg" height="24" alt="Chrome Extensions · 浏览器扩展"> &nbsp;
+  <img src="assets/badges/responsive.svg" height="24" alt="响应式开发">
+</p>
 
 ---
 

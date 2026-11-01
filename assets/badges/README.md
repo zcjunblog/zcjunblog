@@ -1,0 +1,1 @@
+Badges generated with [Shields.io](https://shields.io/), using [Lucide](https://lucide.dev/) layers, puzzle and monitor-smartphone icons. Icon geometry is unchanged; stroke color is set to the profile orange. See [Lucide license](lucide-LICENSE).
