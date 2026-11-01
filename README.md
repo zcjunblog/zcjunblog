@@ -8,44 +8,26 @@
 
 ### 个人技术栈
 
-**语言与样式**
-
 <p>
-  <img src="assets/tech/typescript.svg" width="32" height="32" alt="TypeScript" title="TypeScript"> &nbsp;&nbsp;
-  <img src="assets/tech/javascript.svg" width="32" height="32" alt="JavaScript" title="JavaScript"> &nbsp;&nbsp;
-  <img src="assets/tech/html5.svg" width="32" height="32" alt="HTML5" title="HTML5"> &nbsp;&nbsp;
-  <img src="assets/tech/css3.svg" width="32" height="32" alt="CSS3" title="CSS3"> &nbsp;&nbsp;
-  <img src="assets/tech/sass.svg" width="32" height="32" alt="Sass" title="Sass"> &nbsp;&nbsp;
-  <img src="assets/tech/php.svg" width="32" height="32" alt="PHP" title="PHP">
-</p>
-
-`TypeScript` · `JavaScript` · `HTML5` · `CSS3` · `Sass` · `PHP`
-
-**框架与应用**
-
-<p>
-  <img src="assets/tech/vuejs.svg" width="32" height="32" alt="Vue" title="Vue"> &nbsp;&nbsp;
-  <img src="assets/tech/react.svg" width="32" height="32" alt="React" title="React"> &nbsp;&nbsp;
-  <img src="assets/tech/nextjs.svg" width="32" height="32" alt="Next.js" title="Next.js"> &nbsp;&nbsp;
-  <img src="assets/tech/tailwindcss.svg" width="32" height="32" alt="Tailwind CSS" title="Tailwind CSS"> &nbsp;&nbsp;
-  <img src="assets/tech/nodejs.svg" width="32" height="32" alt="Node.js" title="Node.js">
-</p>
-
-`Vue` · `React` · `Next.js` · `Tailwind CSS` · `Node.js`
-
-**工程与生态**
-
-<p>
-  <img src="assets/tech/vite.svg" width="32" height="32" alt="Vite" title="Vite"> &nbsp;&nbsp;
-  <img src="assets/tech/git.svg" width="32" height="32" alt="Git" title="Git"> &nbsp;&nbsp;
-  <img src="assets/tech/electron.svg" width="32" height="32" alt="Electron" title="Electron"> &nbsp;&nbsp;
-  <img src="assets/tech/mysql.svg" width="32" height="32" alt="MySQL" title="MySQL"> &nbsp;&nbsp;
+  <img src="assets/tech/typescript.svg" width="32" height="32" alt="TypeScript" title="TypeScript"> &nbsp;
+  <img src="assets/tech/javascript.svg" width="32" height="32" alt="JavaScript" title="JavaScript"> &nbsp;
+  <img src="assets/tech/html5.svg" width="32" height="32" alt="HTML5" title="HTML5"> &nbsp;
+  <img src="assets/tech/css3.svg" width="32" height="32" alt="CSS3" title="CSS3"> &nbsp;
+  <img src="assets/tech/sass.svg" width="32" height="32" alt="Sass" title="Sass"> &nbsp;
+  <img src="assets/tech/php.svg" width="32" height="32" alt="PHP" title="PHP"> &nbsp;
+  <img src="assets/tech/vuejs.svg" width="32" height="32" alt="Vue" title="Vue"> &nbsp;
+  <img src="assets/tech/react.svg" width="32" height="32" alt="React" title="React"> &nbsp;
+  <img src="assets/tech/nextjs.svg" width="32" height="32" alt="Next.js" title="Next.js"> &nbsp;
+  <img src="assets/tech/tailwindcss.svg" width="32" height="32" alt="Tailwind CSS" title="Tailwind CSS"> &nbsp;
+  <img src="assets/tech/nodejs.svg" width="32" height="32" alt="Node.js" title="Node.js"> &nbsp;
+  <img src="assets/tech/vite.svg" width="32" height="32" alt="Vite" title="Vite"> &nbsp;
+  <img src="assets/tech/git.svg" width="32" height="32" alt="Git" title="Git"> &nbsp;
+  <img src="assets/tech/electron.svg" width="32" height="32" alt="Electron" title="Electron"> &nbsp;
+  <img src="assets/tech/mysql.svg" width="32" height="32" alt="MySQL" title="MySQL"> &nbsp;
   <img src="assets/tech/wordpress.svg" width="32" height="32" alt="WordPress" title="WordPress">
 </p>
 
-`Vite` · `Git` · `Electron` · `MySQL` · `WordPress`
-
-也在项目中实践 `uni-app`、`Chrome Extensions` 与响应式界面开发。
+`uni-app` · `Chrome Extensions` · 响应式界面开发
 
 ---
 
