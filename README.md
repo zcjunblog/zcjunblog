@@ -1,134 +1,58 @@
-## Hey, zcjunblog here! :wave: [![mail Badge](https://img.shields.io/badge/-i@zcjun.com-c14438?style=plastic&logo=Mail.Ru&logoColor=white&link=mailto:i@zcjun.com)](mailto:gonorth@qq.com)
+<p align="center">
+  <img src="assets/profile-banner.svg" alt="Zicheng Zhao — Building useful things for the web" width="100%">
+</p>
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=zcjunblog&theme=dark&show_icons=true">
+<h1 align="center">你好，我是 Zicheng Zhao 👋</h1>
+<p align="center">前端开发 · Web 应用 · 开源项目</p>
+<p align="center">
+  <a href="https://x4v.cn/">个人网站</a> &nbsp;·&nbsp;
+  <a href="https://github.com/zcjunblog?tab=repositories">全部项目</a> &nbsp;·&nbsp;
+  <a href="https://github.com/zcjunblog/google-access-helper-mv3">代表项目</a>
+</p>
 
-I'm Zhao zicheng, now majoring in ⚡ Front End Developer ⚡, A programmer with a passion 🗯️.
-
-- 🚀 I use:
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-  ![Nodejs](https://img.shields.io/badge/-Node.js-8fcfd1?style=plastic&logo=Node.js)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=plastic&logo=TypeScript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=plastic&logo=HTML5)
- 
-- 😄 I like:
-  Running,
-  Play the game,
-  Coding
-
-- 📖 I am learning:
-  ![Serverless](https://img.shields.io/badge/-Serverless-pink?style=plastic&logo=Serverless),
-  English,
-  Japanese
-
-&emsp;
 ---
-#### :sparkles: My followers
 
-<!--START_SECTION:top-followers-->
+### 关于我
+
+我是 **Zicheng Zhao（zcjunblog）**，关注前端开发和实用工具的设计与实现。这里记录了我在浏览器扩展、Web 应用和开发工具方面的项目与探索。
+
+### 精选项目
+
 <table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/aitchouyz">
-        <img src="https://avatars.githubusercontent.com/u/5944171" width="100px;" alt="aitchouyz"/>
-      </a>
-      <br />
-      <a href="https://github.com/aitchouyz">aitchouyz</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/
-               4">
-        <img src="https://avatars2.githubusercontent.com/u/40482524" width="100px;" alt="shui4"/>
-      </a>
-      <br />
-      <a href="https://github.com/shui4">标准萌新</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/fluffyrita">
-        <img src="https://avatars2.githubusercontent.com/u/59192498" width="100px;" alt="fluffyrita"/>
-      </a>
-      <br />
-      <a href="https://github.com/fluffyrita">testcurry</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/testcurry">
-        <img src="https://avatars2.githubusercontent.com/u/56303991" width="100px;" alt="testcurry"/>
-      </a>
-      <br />
-      <a href="https://github.com/testcurry">testcurry</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/mozc">
-        <img src="https://avatars2.githubusercontent.com/u/11436906" width="100px;" alt="mozc"/>
-      </a>
-      <br />
-      <a href="https://github.com/mozc">mozc</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/youchai1990">
-        <img src="https://avatars2.githubusercontent.com/u/30426203" width="100px;" alt="youchai1990"/>
-      </a>
-      <br />
-      <a href="https://github.com/youchai1990">youchai1990</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/lxtx021">
-        <img src="https://avatars2.githubusercontent.com/u/6000515" width="100px;" alt="	lxtx021"/>
-      </a>
-      <br />
-      <a href="https://github.com/lxtx021">lxtx021</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/jay-mars">
-        <img src="https://avatars2.githubusercontent.com/u/62786120" width="100px;" alt="fan-tian0"/>
-      </a>
-      <br />
-      <a href="https://github.com/fan-tian0">fan-tian0</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/CoderLFYue">
-        <img src="https://avatars2.githubusercontent.com/u/15118096" width="100px;" alt="CoderLFYue"/>
-      </a>
-      <br />
-      <a href="https://github.com/CoderLFYue">龙峰</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/guyansheng">
-        <img src="https://avatars2.githubusercontent.com/u/58406224" width="100px;" alt="guyansheng"/>
-      </a>
-      <br />
-      <a href="https://github.com/guyansheng">guyansheng</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/wonsukii">
-        <img src="https://avatars2.githubusercontent.com/u/43467884" width="100px;" alt="wonsukii"/>
-      </a>
-      <br />
-      <a href="https://github.com/wonsukii">wonsukii</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/LexsionLee">
-        <img src="https://avatars2.githubusercontent.com/u/61049685" width="100px;" alt="xflyhigh"/>
-      </a>
-      <br />
-      <a href="https://github.com/xflyhigh">xflyhigh</a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+<strong><a href="https://github.com/zcjunblog/google-access-helper-mv3">Google Access Helper · MV3</a></strong><br><br>
+可安装的 Chrome 扩展，支持代理配置与启停、服务入口、连接诊断和配置导入导出。<br><br>
+<sub>JavaScript · Chrome Extension · Manifest V3</sub><br><br>
+<sub>代理功能需要自备可用的代理服务。</sub>
+</td>
+<td width="50%" valign="top">
+<strong><a href="https://github.com/zcjunblog/sbti-test">SBTI 赛博人格测定局</a></strong><br><br>
+交互式人格测试站点，包含多维画像、人格图鉴、结果分享和海报生成。<br><br>
+<sub>Next.js · React · TypeScript · Tailwind CSS</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<strong><a href="https://github.com/zcjunblog/gpt-redeem">GPT 卡密兑换站</a></strong><br><br>
+包含卡密兑换、订单查询和后台管理的 Web 应用，支持响应式布局与深浅主题。<br><br>
+<sub>PHP · MySQL · HTML / CSS / JavaScript</sub><br><br>
+<sub>默认使用模拟接口，真实充值尚未验证。</sub>
+</td>
+<td width="50%" valign="top">
+<strong><a href="https://github.com/zcjunblog/dt-cli">dt-cli</a></strong><br><br>
+用于拉取项目模板、快速初始化前端项目的命令行工具。<br><br>
+<sub>Node.js · CLI · 项目模板</sub>
+</td>
+</tr>
 </table>
-<!--END_SECTION:top-followers-->
 
-#### :bar_chart: Weekly development breakdown
+### 技术与探索
 
-<!--START_SECTION:waka-->
-```text
-JavaScript   9 hrs 49 mins   ███████▒░░░░░░░░░░░░░░░░░   28.84 % 
-Html         4 hrs 25 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.18 % 
-NodeJs       3 hrs 37 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.01 % 
-TypeScript   2 hrs 43 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-Other        49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-```
-<!--END_SECTION:waka-->
+`JavaScript` &nbsp; `TypeScript` &nbsp; `HTML / CSS` &nbsp; `Vue` &nbsp; `React` &nbsp; `Node.js` &nbsp; `Chrome Extensions` &nbsp; `PHP` &nbsp; `MySQL`
 
+从页面交互、项目模板到浏览器工具，希望把想法变成可以使用、可以维护的作品。
 
+---
 
+<p align="center"><sub>感谢来访 · 欢迎通过各项目的 Issues 交流</sub></p>
